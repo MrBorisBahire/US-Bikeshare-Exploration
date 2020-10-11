@@ -23,7 +23,7 @@ def get_filters():
             break
         else:
             print("invalid input. Please enter a valid input")
-    # get user input for month (all, january, february, ... , june)
+    # get user input for month (all, january, february,march,april,may ... , june)
     while True:
         month = input("Do you want details specific to a particular month? If yes, type month name from within first six months else type 'all'")
         month = month.lower()
