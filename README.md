@@ -5,7 +5,7 @@
 ## **Description:**
 This project was focusing on using Python to explore data related to the US bike share system for three major cities in the United States: Chicago, New York City, and Washington.
 - The source code used from the raw input from the user to create an interactive experience.
-- And depending of the input the code imports the data and provides information by computing descriptive statistics.
+- And depending of the input the code imports the data and provides information by computing descriptive statistics. Do not hesitate to contribute to it in case you would like to.
 
 ## **Files used:**
 * bikeshare.py
