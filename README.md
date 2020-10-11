@@ -14,6 +14,8 @@ This project was focusing on using Python to explore data related to the US bike
 * Kalle Hallden
     - [https://github.com/KalleHallden](https://github.com/KalleHallden)
     - [https://twitter.com/KalleHallden](https://twitter.com/KalleHallden)
+* Alexattia
+      [https://github.com/alexattia](https://twitter.com/alexattia)
 
 ## **Softwares needed:**
 * _Python 3, NumPy,_ and _Pandas_ installed using _Anaconda_
