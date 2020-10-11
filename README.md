@@ -17,7 +17,7 @@ This project was focusing on using Python to explore data related to the US bike
 
 ## **Softwares needed:**
 * _Python 3, NumPy,_ and _Pandas_ installed using _Anaconda_
-* A text editor, like _VS Code_ or _Atom_.
+* A text editor, such as _Visual Studio Code_ or _Atom_.
 * A terminal application (_Terminal_ on _Mac_ and _Linux_ or _Cygwin_ on _Windows_).
 
 ## **Installation links for softwares:**
@@ -28,7 +28,7 @@ This project was focusing on using Python to explore data related to the US bike
 ## **Links for software tutorials:**
 * [Git - Reference](https://git-scm.com/docs)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
-* [VS Code Documentation](https://code.visualstudio.com/docs)
+* [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
 
 ## **Code explained in Detail:**
 ### **How the program works:**
