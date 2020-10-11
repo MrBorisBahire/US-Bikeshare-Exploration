@@ -25,9 +25,9 @@ This project was focusing on using Python to explore data related to the US bike
 ## **Installation links for softwares:**
 * [Git for windows - for terminal application using Git Bash](https://gitforwindows.org/)
 * [Python using Anaconda (latest version for windows)](https://www.anaconda.com/distribution/)
-* [Visual Studio Code Editor (for windows)](https://code.visualstudio.com/docs/setup/windows)
+* [Atom Code Editor (for windows)](https://atom.io/)
 
-## **Links for software tutorials:**
+## **Links for software tutorials used:**
 * [Git - Reference](https://git-scm.com/docs)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 * [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
